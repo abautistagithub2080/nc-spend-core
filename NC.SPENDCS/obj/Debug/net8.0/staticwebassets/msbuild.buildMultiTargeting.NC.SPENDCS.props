@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\NC.SPENDCS.props" />
+</Project>

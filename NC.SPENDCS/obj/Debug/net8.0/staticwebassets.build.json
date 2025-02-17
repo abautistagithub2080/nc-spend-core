@@ -1,0 +1,3833 @@
+{
+  "Version": 1,
+  "Hash": "scP304zsj52uS4+bltASSSrp5dnENfA1ILMOYzpKRSM=",
+  "Source": "NC.SPENDCS",
+  "BasePath": "_content/NC.SPENDCS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "NC.SPENDCS\\wwwroot",
+      "Source": "NC.SPENDCS",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap.css",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ahjbid90mr",
+      "Integrity": "opI27tVP8lfzTdiKv9Wi8UuRkNhIAvZwMVLWtOpRHKk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap.css.map",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o3yzcp43z9",
+      "Integrity": "nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap.min.css",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ufik3s9dum",
+      "Integrity": "Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap.min.css.map",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wrmkol24q7",
+      "Integrity": "tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap-theme.css",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/css/bootstrap-theme#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3zatgav9ba",
+      "Integrity": "MXsQOb7vMAS7R5WCoc89iTe2aIQmE9phW+ccYS9jXeU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\css\\bootstrap-theme.css"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap-theme.css.map",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/css/bootstrap-theme.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1gzojq7jip",
+      "Integrity": "cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap-theme.min.css",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/css/bootstrap-theme.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9ruze9sgfm",
+      "Integrity": "iyc/4K4R3+uW96VvG17NLXZQAUeSetVXNW+qUifRcDI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap-theme.min.css.map",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/css/bootstrap-theme.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "g210lhpolz",
+      "Integrity": "mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.eot",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.eot",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "torz25362b",
+      "Integrity": "E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.svg",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r3m9qmfdw3",
+      "Integrity": "2YXNoDTqtMnyQDl2+NFx+/bvxLWTEH2LFAHlttqkYpU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.ttf",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "li0e4nnnks",
+      "Integrity": "45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.woff",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qqew9mh6jt",
+      "Integrity": "omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.woff2",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/fonts/glyphicons-halflings-regular#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "y3zdydnkm9",
+      "Integrity": "/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\bootstrap.js",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dulpgot2b4",
+      "Integrity": "1fo3W6qowq4PinpCsKshaVqewExoFmzrRBGKbSdAVEk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\bootstrap.min.js",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "euzfjcw9e7",
+      "Integrity": "NkYOSU5MYoRDr97UCydDte3ppKdvtPe57yNFzH5Z/WQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\jquery-1.9.1.js",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/js/jquery-1.9.1#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ff8p2d6e2w",
+      "Integrity": "62xj2ofAy+JaHuSfnVAaoLNi1Kpac0FpJTk+WlDCewU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\js\\jquery-1.9.1.js"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\jquery-3.5.1.min.js",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/js/jquery-3.5.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rm8d4uw1xt",
+      "Integrity": "82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\js\\jquery-3.5.1.min.js"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\npm.js",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "bootstraps/js/npm#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4sgu2tw5my",
+      "Integrity": "jDnrHtvYDYrapYHcRXkqEnG9GHxO/w5ajRkFsAeRFGk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bootstraps\\js\\npm.js"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\_notes\\dwsync.xml",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/_notes/dwsync#[.{fingerprint}]?.xml",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f7ez93gcyg",
+      "Integrity": "VTjSPImQQv3fg9wBLbtF25mmrhqRSSXm7mnSB6fI3+s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\_notes\\dwsync.xml"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\BtnHeadMenus.jpg",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/BtnHeadMenus#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v9y3vtoj5q",
+      "Integrity": "QyNn3799PkEhq6qE3fueFJk3V3r1SOhgig7v7ljV3XI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\BtnHeadMenus.jpg"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\BtnHeadMenusBack.jpg",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/BtnHeadMenusBack#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kpm9ua35qp",
+      "Integrity": "yG6b9MFHfovS8d6gI2HAmscgilEzuolx6FTE2yyO79c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\BtnHeadMenusBack.jpg"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\BtnSupA.png",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/BtnSupA#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x51bq46x58",
+      "Integrity": "W5vNmtlsrZvtJmLzzresDiuvVa96kx7l/jyyGvCCnYQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\BtnSupA.png"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\BtnSupB.png",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/BtnSupB#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vq25kvmo2l",
+      "Integrity": "2ZJaNUqqifX+DZwg6jpJ4/wF82rzXg6pAo/5ijx+eD0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\BtnSupB.png"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Build.png",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/Build#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jl9hbjwyw9",
+      "Integrity": "KR5Vcc3TXfXPhj/5uT0ioo23DfvEKHhczB3IpFVOFo0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Build.png"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\calendar.jpg",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/calendar#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lg0dw2fxgg",
+      "Integrity": "lduKcMvKz1oeOQWq3cvyk3duGrGqfiy0jjRS8IgH+Cs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\calendar.jpg"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\CASCO.jpg",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/CASCO#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nr476toza7",
+      "Integrity": "HVJ6vdhTLVyAaLR3gpVGUV2B6oftZGClsiUEQjO4z1M=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\CASCO.jpg"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Del.gif",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/Del#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w30422y3a2",
+      "Integrity": "jEOIrV0bwgpxBx7G3/H0nFde3Ek5CPOkZc3r8qv7C7I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Del.gif"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Direc-I.png",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/Direc-I#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "43ug7a1wa9",
+      "Integrity": "UNtu78H3j3R28O/PtEG5nNyFCOU/O0LQ1I888PEN/jE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Direc-I.png"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Docs.png",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/Docs#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4h6qqejrt5",
+      "Integrity": "uBpeKWEaY7nNxCNsYrlKZVLwboETnDxFnZvMju0ZOIw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Docs.png"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\edt.gif",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/edt#[.{fingerprint}]?.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dyqongdt3k",
+      "Integrity": "i5qySAKJ83aXMdzF2FXn6VUw0dWtaMU0oOCghRiVPLk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\edt.gif"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Foco.png",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/Foco#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tzbuistmr4",
+      "Integrity": "OSpG/Z8xSklraeSoLpyOM5H9HwEna2CwDurLNNpLrnc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Foco.png"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Home-I.png",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/Home-I#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fnlgo7bsaf",
+      "Integrity": "ZepHpn8+QDP37LYJLUvyH9nQYjar5WasQFFLbmnRfKs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\Home-I.png"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\ROCKET.ICO",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "img/ROCKET#[.{fingerprint}]?.ICO",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h5496wlcz6",
+      "Integrity": "u+zI0L2sDiOrtwlDEVtvWS0L5BjWOrVhP9qqwF63Lc4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\ROCKET.ICO"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\js\\jquery-3.5.1.min.js",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "js/jquery-3.5.1.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "rm8d4uw1xt",
+      "Integrity": "82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\jquery-3.5.1.min.js"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\Tls\\TableResp.css",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "Tls/TableResp#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "99c76yzenk",
+      "Integrity": "zXemJF7rM2oggDrCJZjzSRoBvm8fWtDgzgkDz+7lkRs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Tls\\TableResp.css"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\Tls\\Tls.css",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "Tls/Tls#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "txv5r4kxhr",
+      "Integrity": "8Tuz6AActq4ObcKSHt3zASw4ZHj5O/fq3c2RrsPvo74=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Tls\\Tls.css"
+    },
+    {
+      "Identity": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\Tls\\Tls.js",
+      "SourceId": "NC.SPENDCS",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\",
+      "BasePath": "_content/NC.SPENDCS",
+      "RelativePath": "Tls/Tls#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jhioq7fmqj",
+      "Integrity": "l7mXdyCBi9pTfL/OIEqt8W1YorcjGHwgIAtIFv2ih/4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Tls\\Tls.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "bootstraps/css/bootstrap.ahjbid90mr.css",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"opI27tVP8lfzTdiKv9Wi8UuRkNhIAvZwMVLWtOpRHKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ahjbid90mr"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-opI27tVP8lfzTdiKv9Wi8UuRkNhIAvZwMVLWtOpRHKk="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap.css",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "152767"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"opI27tVP8lfzTdiKv9Wi8UuRkNhIAvZwMVLWtOpRHKk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-opI27tVP8lfzTdiKv9Wi8UuRkNhIAvZwMVLWtOpRHKk="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap.css.map",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap.css.o3yzcp43z9.map",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "389287"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o3yzcp43z9"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nNhKKlFiyBaou715z53AYFvA6obkzSurQ67gabuD0mY="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap.min.css",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap.min.css.map",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "542194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap.min.css.wrmkol24q7.map",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "542194"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wrmkol24q7"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tKNdGXk95EX0Yi9NKNsnnAJCtgIo7zBDQKrYM9ASp30="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap.min.ufik3s9dum.css",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "121205"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ufik3s9dum"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Wj2MBXhUhdNu5clNRoHlsdnkuUxb6LW9ew8xaP/xvZo="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap-theme.3zatgav9ba.css",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MXsQOb7vMAS7R5WCoc89iTe2aIQmE9phW+ccYS9jXeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3zatgav9ba"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/css/bootstrap-theme.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MXsQOb7vMAS7R5WCoc89iTe2aIQmE9phW+ccYS9jXeU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap-theme.css",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap-theme.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26719"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MXsQOb7vMAS7R5WCoc89iTe2aIQmE9phW+ccYS9jXeU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MXsQOb7vMAS7R5WCoc89iTe2aIQmE9phW+ccYS9jXeU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap-theme.css.1gzojq7jip.map",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap-theme.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1gzojq7jip"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/css/bootstrap-theme.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap-theme.css.map",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap-theme.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47706"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZQbJTuJQjdM1XuKhdRzSJ8hMRQ4up491P76Iq2/D1M="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap-theme.min.9ruze9sgfm.css",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap-theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iyc/4K4R3+uW96VvG17NLXZQAUeSetVXNW+qUifRcDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9ruze9sgfm"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/css/bootstrap-theme.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iyc/4K4R3+uW96VvG17NLXZQAUeSetVXNW+qUifRcDI="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap-theme.min.css",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap-theme.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iyc/4K4R3+uW96VvG17NLXZQAUeSetVXNW+qUifRcDI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iyc/4K4R3+uW96VvG17NLXZQAUeSetVXNW+qUifRcDI="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap-theme.min.css.g210lhpolz.map",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap-theme.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "g210lhpolz"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/css/bootstrap-theme.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/css/bootstrap-theme.min.css.map",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\css\\bootstrap-theme.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "25648"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mFHhafBEv8DV5KinYd7VMdQVzrf+vB6lhfqwcLhG1zg="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/fonts/glyphicons-halflings-regular.eot",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/fonts/glyphicons-halflings-regular.li0e4nnnks.ttf",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "li0e4nnnks"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/fonts/glyphicons-halflings-regular.ttf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/fonts/glyphicons-halflings-regular.qqew9mh6jt.woff",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qqew9mh6jt"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/fonts/glyphicons-halflings-regular.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/fonts/glyphicons-halflings-regular.r3m9qmfdw3.svg",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2YXNoDTqtMnyQDl2+NFx+/bvxLWTEH2LFAHlttqkYpU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r3m9qmfdw3"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/fonts/glyphicons-halflings-regular.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2YXNoDTqtMnyQDl2+NFx+/bvxLWTEH2LFAHlttqkYpU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/fonts/glyphicons-halflings-regular.svg",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2YXNoDTqtMnyQDl2+NFx+/bvxLWTEH2LFAHlttqkYpU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2YXNoDTqtMnyQDl2+NFx+/bvxLWTEH2LFAHlttqkYpU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/fonts/glyphicons-halflings-regular.torz25362b.eot",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.eot",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20127"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.ms-fontobject"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "torz25362b"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/fonts/glyphicons-halflings-regular.eot"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E2NNqH2eI/jD7ZEIzhck0YOjmtBy5z4bPYy/ZG0tBAc="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/fonts/glyphicons-halflings-regular.ttf",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.ttf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "45404"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/x-font-ttf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-45UEQJN1fYKvyxOJV9BqHqk2G9zwtELQahioBRr1dFY="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/fonts/glyphicons-halflings-regular.woff",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23424"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-omOU9+3hAMoRjv8u2ghZYnWpg5uVnCJuFUOVV6WoB0I="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/fonts/glyphicons-halflings-regular.woff2",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/fonts/glyphicons-halflings-regular.y3zdydnkm9.woff2",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\fonts\\glyphicons-halflings-regular.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "y3zdydnkm9"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/fonts/glyphicons-halflings-regular.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/hhdEaSWdokNR7t4MxKgzaWkTEA5IUCU55V7TAQO8Rw="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/js/bootstrap.dulpgot2b4.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1fo3W6qowq4PinpCsKshaVqewExoFmzrRBGKbSdAVEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dulpgot2b4"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1fo3W6qowq4PinpCsKshaVqewExoFmzrRBGKbSdAVEk="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/js/bootstrap.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "72084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1fo3W6qowq4PinpCsKshaVqewExoFmzrRBGKbSdAVEk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1fo3W6qowq4PinpCsKshaVqewExoFmzrRBGKbSdAVEk="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/js/bootstrap.min.euzfjcw9e7.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NkYOSU5MYoRDr97UCydDte3ppKdvtPe57yNFzH5Z/WQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "euzfjcw9e7"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NkYOSU5MYoRDr97UCydDte3ppKdvtPe57yNFzH5Z/WQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/js/bootstrap.min.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37051"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NkYOSU5MYoRDr97UCydDte3ppKdvtPe57yNFzH5Z/WQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NkYOSU5MYoRDr97UCydDte3ppKdvtPe57yNFzH5Z/WQ="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/js/jquery-1.9.1.ff8p2d6e2w.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\jquery-1.9.1.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"62xj2ofAy+JaHuSfnVAaoLNi1Kpac0FpJTk+WlDCewU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ff8p2d6e2w"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/js/jquery-1.9.1.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-62xj2ofAy+JaHuSfnVAaoLNi1Kpac0FpJTk+WlDCewU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/js/jquery-1.9.1.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\jquery-1.9.1.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "277978"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"62xj2ofAy+JaHuSfnVAaoLNi1Kpac0FpJTk+WlDCewU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-62xj2ofAy+JaHuSfnVAaoLNi1Kpac0FpJTk+WlDCewU="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/js/jquery-3.5.1.min.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\jquery-3.5.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/js/jquery-3.5.1.min.rm8d4uw1xt.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\jquery-3.5.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rm8d4uw1xt"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/js/jquery-3.5.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/js/npm.4sgu2tw5my.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\npm.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jDnrHtvYDYrapYHcRXkqEnG9GHxO/w5ajRkFsAeRFGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4sgu2tw5my"
+        },
+        {
+          "Name": "label",
+          "Value": "bootstraps/js/npm.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jDnrHtvYDYrapYHcRXkqEnG9GHxO/w5ajRkFsAeRFGk="
+        }
+      ]
+    },
+    {
+      "Route": "bootstraps/js/npm.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\bootstraps\\js\\npm.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "496"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jDnrHtvYDYrapYHcRXkqEnG9GHxO/w5ajRkFsAeRFGk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jDnrHtvYDYrapYHcRXkqEnG9GHxO/w5ajRkFsAeRFGk="
+        }
+      ]
+    },
+    {
+      "Route": "img/_notes/dwsync.f7ez93gcyg.xml",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\_notes\\dwsync.xml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VTjSPImQQv3fg9wBLbtF25mmrhqRSSXm7mnSB6fI3+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f7ez93gcyg"
+        },
+        {
+          "Name": "label",
+          "Value": "img/_notes/dwsync.xml"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VTjSPImQQv3fg9wBLbtF25mmrhqRSSXm7mnSB6fI3+s="
+        }
+      ]
+    },
+    {
+      "Route": "img/_notes/dwsync.xml",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\_notes\\dwsync.xml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "810"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VTjSPImQQv3fg9wBLbtF25mmrhqRSSXm7mnSB6fI3+s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VTjSPImQQv3fg9wBLbtF25mmrhqRSSXm7mnSB6fI3+s="
+        }
+      ]
+    },
+    {
+      "Route": "img/BtnHeadMenus.jpg",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\BtnHeadMenus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QyNn3799PkEhq6qE3fueFJk3V3r1SOhgig7v7ljV3XI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QyNn3799PkEhq6qE3fueFJk3V3r1SOhgig7v7ljV3XI="
+        }
+      ]
+    },
+    {
+      "Route": "img/BtnHeadMenus.v9y3vtoj5q.jpg",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\BtnHeadMenus.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "12150"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QyNn3799PkEhq6qE3fueFJk3V3r1SOhgig7v7ljV3XI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v9y3vtoj5q"
+        },
+        {
+          "Name": "label",
+          "Value": "img/BtnHeadMenus.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QyNn3799PkEhq6qE3fueFJk3V3r1SOhgig7v7ljV3XI="
+        }
+      ]
+    },
+    {
+      "Route": "img/BtnHeadMenusBack.jpg",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\BtnHeadMenusBack.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yG6b9MFHfovS8d6gI2HAmscgilEzuolx6FTE2yyO79c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yG6b9MFHfovS8d6gI2HAmscgilEzuolx6FTE2yyO79c="
+        }
+      ]
+    },
+    {
+      "Route": "img/BtnHeadMenusBack.kpm9ua35qp.jpg",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\BtnHeadMenusBack.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11436"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yG6b9MFHfovS8d6gI2HAmscgilEzuolx6FTE2yyO79c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kpm9ua35qp"
+        },
+        {
+          "Name": "label",
+          "Value": "img/BtnHeadMenusBack.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yG6b9MFHfovS8d6gI2HAmscgilEzuolx6FTE2yyO79c="
+        }
+      ]
+    },
+    {
+      "Route": "img/BtnSupA.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\BtnSupA.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W5vNmtlsrZvtJmLzzresDiuvVa96kx7l/jyyGvCCnYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W5vNmtlsrZvtJmLzzresDiuvVa96kx7l/jyyGvCCnYQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/BtnSupA.x51bq46x58.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\BtnSupA.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "685"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W5vNmtlsrZvtJmLzzresDiuvVa96kx7l/jyyGvCCnYQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x51bq46x58"
+        },
+        {
+          "Name": "label",
+          "Value": "img/BtnSupA.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W5vNmtlsrZvtJmLzzresDiuvVa96kx7l/jyyGvCCnYQ="
+        }
+      ]
+    },
+    {
+      "Route": "img/BtnSupB.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\BtnSupB.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2ZJaNUqqifX+DZwg6jpJ4/wF82rzXg6pAo/5ijx+eD0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2ZJaNUqqifX+DZwg6jpJ4/wF82rzXg6pAo/5ijx+eD0="
+        }
+      ]
+    },
+    {
+      "Route": "img/BtnSupB.vq25kvmo2l.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\BtnSupB.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "681"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2ZJaNUqqifX+DZwg6jpJ4/wF82rzXg6pAo/5ijx+eD0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vq25kvmo2l"
+        },
+        {
+          "Name": "label",
+          "Value": "img/BtnSupB.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2ZJaNUqqifX+DZwg6jpJ4/wF82rzXg6pAo/5ijx+eD0="
+        }
+      ]
+    },
+    {
+      "Route": "img/Build.jl9hbjwyw9.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Build.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KR5Vcc3TXfXPhj/5uT0ioo23DfvEKHhczB3IpFVOFo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jl9hbjwyw9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Build.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KR5Vcc3TXfXPhj/5uT0ioo23DfvEKHhczB3IpFVOFo0="
+        }
+      ]
+    },
+    {
+      "Route": "img/Build.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Build.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2505"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KR5Vcc3TXfXPhj/5uT0ioo23DfvEKHhczB3IpFVOFo0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KR5Vcc3TXfXPhj/5uT0ioo23DfvEKHhczB3IpFVOFo0="
+        }
+      ]
+    },
+    {
+      "Route": "img/calendar.jpg",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\calendar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54815"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lduKcMvKz1oeOQWq3cvyk3duGrGqfiy0jjRS8IgH+Cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lduKcMvKz1oeOQWq3cvyk3duGrGqfiy0jjRS8IgH+Cs="
+        }
+      ]
+    },
+    {
+      "Route": "img/calendar.lg0dw2fxgg.jpg",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\calendar.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "54815"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lduKcMvKz1oeOQWq3cvyk3duGrGqfiy0jjRS8IgH+Cs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lg0dw2fxgg"
+        },
+        {
+          "Name": "label",
+          "Value": "img/calendar.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lduKcMvKz1oeOQWq3cvyk3duGrGqfiy0jjRS8IgH+Cs="
+        }
+      ]
+    },
+    {
+      "Route": "img/CASCO.jpg",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\CASCO.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HVJ6vdhTLVyAaLR3gpVGUV2B6oftZGClsiUEQjO4z1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HVJ6vdhTLVyAaLR3gpVGUV2B6oftZGClsiUEQjO4z1M="
+        }
+      ]
+    },
+    {
+      "Route": "img/CASCO.nr476toza7.jpg",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\CASCO.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "47211"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HVJ6vdhTLVyAaLR3gpVGUV2B6oftZGClsiUEQjO4z1M=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nr476toza7"
+        },
+        {
+          "Name": "label",
+          "Value": "img/CASCO.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HVJ6vdhTLVyAaLR3gpVGUV2B6oftZGClsiUEQjO4z1M="
+        }
+      ]
+    },
+    {
+      "Route": "img/Del.gif",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Del.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jEOIrV0bwgpxBx7G3/H0nFde3Ek5CPOkZc3r8qv7C7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jEOIrV0bwgpxBx7G3/H0nFde3Ek5CPOkZc3r8qv7C7I="
+        }
+      ]
+    },
+    {
+      "Route": "img/Del.w30422y3a2.gif",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Del.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3836"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jEOIrV0bwgpxBx7G3/H0nFde3Ek5CPOkZc3r8qv7C7I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w30422y3a2"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Del.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jEOIrV0bwgpxBx7G3/H0nFde3Ek5CPOkZc3r8qv7C7I="
+        }
+      ]
+    },
+    {
+      "Route": "img/Direc-I.43ug7a1wa9.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Direc-I.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UNtu78H3j3R28O/PtEG5nNyFCOU/O0LQ1I888PEN/jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "43ug7a1wa9"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Direc-I.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UNtu78H3j3R28O/PtEG5nNyFCOU/O0LQ1I888PEN/jE="
+        }
+      ]
+    },
+    {
+      "Route": "img/Direc-I.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Direc-I.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1570"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UNtu78H3j3R28O/PtEG5nNyFCOU/O0LQ1I888PEN/jE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UNtu78H3j3R28O/PtEG5nNyFCOU/O0LQ1I888PEN/jE="
+        }
+      ]
+    },
+    {
+      "Route": "img/Docs.4h6qqejrt5.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Docs.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uBpeKWEaY7nNxCNsYrlKZVLwboETnDxFnZvMju0ZOIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4h6qqejrt5"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Docs.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uBpeKWEaY7nNxCNsYrlKZVLwboETnDxFnZvMju0ZOIw="
+        }
+      ]
+    },
+    {
+      "Route": "img/Docs.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Docs.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10433"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uBpeKWEaY7nNxCNsYrlKZVLwboETnDxFnZvMju0ZOIw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uBpeKWEaY7nNxCNsYrlKZVLwboETnDxFnZvMju0ZOIw="
+        }
+      ]
+    },
+    {
+      "Route": "img/edt.dyqongdt3k.gif",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\edt.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i5qySAKJ83aXMdzF2FXn6VUw0dWtaMU0oOCghRiVPLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dyqongdt3k"
+        },
+        {
+          "Name": "label",
+          "Value": "img/edt.gif"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-i5qySAKJ83aXMdzF2FXn6VUw0dWtaMU0oOCghRiVPLk="
+        }
+      ]
+    },
+    {
+      "Route": "img/edt.gif",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\edt.gif",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1950"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/gif"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"i5qySAKJ83aXMdzF2FXn6VUw0dWtaMU0oOCghRiVPLk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-i5qySAKJ83aXMdzF2FXn6VUw0dWtaMU0oOCghRiVPLk="
+        }
+      ]
+    },
+    {
+      "Route": "img/Foco.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Foco.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OSpG/Z8xSklraeSoLpyOM5H9HwEna2CwDurLNNpLrnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-OSpG/Z8xSklraeSoLpyOM5H9HwEna2CwDurLNNpLrnc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Foco.tzbuistmr4.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Foco.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5605"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"OSpG/Z8xSklraeSoLpyOM5H9HwEna2CwDurLNNpLrnc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tzbuistmr4"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Foco.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-OSpG/Z8xSklraeSoLpyOM5H9HwEna2CwDurLNNpLrnc="
+        }
+      ]
+    },
+    {
+      "Route": "img/Home-I.fnlgo7bsaf.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Home-I.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZepHpn8+QDP37LYJLUvyH9nQYjar5WasQFFLbmnRfKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fnlgo7bsaf"
+        },
+        {
+          "Name": "label",
+          "Value": "img/Home-I.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZepHpn8+QDP37LYJLUvyH9nQYjar5WasQFFLbmnRfKs="
+        }
+      ]
+    },
+    {
+      "Route": "img/Home-I.png",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\Home-I.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3180"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZepHpn8+QDP37LYJLUvyH9nQYjar5WasQFFLbmnRfKs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZepHpn8+QDP37LYJLUvyH9nQYjar5WasQFFLbmnRfKs="
+        }
+      ]
+    },
+    {
+      "Route": "img/ROCKET.h5496wlcz6.ICO",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\ROCKET.ICO",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u+zI0L2sDiOrtwlDEVtvWS0L5BjWOrVhP9qqwF63Lc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5496wlcz6"
+        },
+        {
+          "Name": "label",
+          "Value": "img/ROCKET.ICO"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-u+zI0L2sDiOrtwlDEVtvWS0L5BjWOrVhP9qqwF63Lc4="
+        }
+      ]
+    },
+    {
+      "Route": "img/ROCKET.ICO",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\img\\ROCKET.ICO",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u+zI0L2sDiOrtwlDEVtvWS0L5BjWOrVhP9qqwF63Lc4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u+zI0L2sDiOrtwlDEVtvWS0L5BjWOrVhP9qqwF63Lc4="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.5.1.min.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\js\\jquery-3.5.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us="
+        }
+      ]
+    },
+    {
+      "Route": "js/jquery-3.5.1.min.rm8d4uw1xt.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\js\\jquery-3.5.1.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 03 Aug 2023 01:01:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rm8d4uw1xt"
+        },
+        {
+          "Name": "label",
+          "Value": "js/jquery-3.5.1.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us="
+        }
+      ]
+    },
+    {
+      "Route": "Tls/TableResp.99c76yzenk.css",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\Tls\\TableResp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zXemJF7rM2oggDrCJZjzSRoBvm8fWtDgzgkDz+7lkRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "99c76yzenk"
+        },
+        {
+          "Name": "label",
+          "Value": "Tls/TableResp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zXemJF7rM2oggDrCJZjzSRoBvm8fWtDgzgkDz+7lkRs="
+        }
+      ]
+    },
+    {
+      "Route": "Tls/TableResp.css",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\Tls\\TableResp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2773"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zXemJF7rM2oggDrCJZjzSRoBvm8fWtDgzgkDz+7lkRs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zXemJF7rM2oggDrCJZjzSRoBvm8fWtDgzgkDz+7lkRs="
+        }
+      ]
+    },
+    {
+      "Route": "Tls/Tls.css",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\Tls\\Tls.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Tuz6AActq4ObcKSHt3zASw4ZHj5O/fq3c2RrsPvo74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Tuz6AActq4ObcKSHt3zASw4ZHj5O/fq3c2RrsPvo74="
+        }
+      ]
+    },
+    {
+      "Route": "Tls/Tls.jhioq7fmqj.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\Tls\\Tls.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l7mXdyCBi9pTfL/OIEqt8W1YorcjGHwgIAtIFv2ih/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 17:33:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jhioq7fmqj"
+        },
+        {
+          "Name": "label",
+          "Value": "Tls/Tls.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-l7mXdyCBi9pTfL/OIEqt8W1YorcjGHwgIAtIFv2ih/4="
+        }
+      ]
+    },
+    {
+      "Route": "Tls/Tls.js",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\Tls\\Tls.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"l7mXdyCBi9pTfL/OIEqt8W1YorcjGHwgIAtIFv2ih/4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Sep 2024 17:33:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-l7mXdyCBi9pTfL/OIEqt8W1YorcjGHwgIAtIFv2ih/4="
+        }
+      ]
+    },
+    {
+      "Route": "Tls/Tls.txv5r4kxhr.css",
+      "AssetFile": "D:\\MisDocs\\PROYECTOS\\CS-AppWebCORE\\NCSPEND\\NC.SPENDCS\\NC.SPENDCS\\wwwroot\\Tls\\Tls.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4543"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8Tuz6AActq4ObcKSHt3zASw4ZHj5O/fq3c2RrsPvo74=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 09 Jul 2024 17:21:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "txv5r4kxhr"
+        },
+        {
+          "Name": "label",
+          "Value": "Tls/Tls.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8Tuz6AActq4ObcKSHt3zASw4ZHj5O/fq3c2RrsPvo74="
+        }
+      ]
+    }
+  ]
+}

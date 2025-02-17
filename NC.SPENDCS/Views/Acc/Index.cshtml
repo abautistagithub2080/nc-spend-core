@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model NC.SPENDCS.Models.Usuario
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/bootstraps/css/bootstrap.min.css" asp-append-version="true" />
+    <script src="~/bootstraps/js/bootstrap.min.js" asp-append-version="true"></script>
+    <script src="~/bootstraps/js/jquery-3.5.1.min.js" asp-append-version="true"></script>
+    <script src="~/js/Tls.js" asp-append-version="true"></script>
+    <title>Acceso</title>
+    @if (@Model.nPaso == 1)
+    {
+        <script type="text/javascript">
+            alert("Favor de verificar su usuario y contraseña");
+        </script>
+    }
+</head>
+<body>
+    <form name="FrmAcc" id="FrmAcc" method="post" action="~/Acc/Valida" target="_self">
+        <div class="container">
+            <h2>Bienvenidos</h2>
+            <div class="form-group">
+                <label for="Usuario">Usuario:</label>
+                <input type="text" name="txtUsr" id="txtUsr" class="form-control" placeholder="Usuario / Correo Electrónico" value="@Model.User" />
+            </div>
+            <div class="form-group">
+                <label for="pwd">Password:</label>
+                <input type="password" name="txtContra" id="txtContra" class="form-control" placeholder="Contraseña" value="@Model.Password" />
+            </div>
+            <input type="hidden" id="hdVal" name="hdVal" value="" />
+            <input type="submit" name="btnAcc" id="btnAcc" class="btn btn-default" value="Accesar" onclick="return fnValidar();" />
+        </div>
+    </form>
+</body>
+</html>
