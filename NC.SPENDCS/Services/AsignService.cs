@@ -26,5 +26,23 @@ namespace NC.SPENDCS.Services
             }
             return oAdmon;
         }
+
+        public async Task<MenusRes> FillMenu(string IDUser)
+        {
+            await _ServiceAPI.Autenticar();
+            var Client = await _ServiceAPI.TfnClientApi();
+            MenusRes oMenu = new MenusRes();   
+            var response = await Client.GetAsync($"/api/ROT/FillMenu/{IDUser}");
+            if (response.IsSuccessStatusCode)
+            {
+                var JSON_Res = await response.Content.ReadAsStringAsync();
+                var oRes = JsonConvert.DeserializeObject<MenusRes>(JSON_Res);
+                oMenu.Menus = oRes.Menus;
+                oMenu.NombreUsuario = oRes.NombreUsuario;
+                oMenu.mensaje = oRes.mensaje;
+            }
+            return oMenu;
+        }
+
     }
 }

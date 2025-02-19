@@ -55,7 +55,7 @@
 
                 <div class="form-group">
                     <label for="lUser">Selecciona un menu:</label>
-                    @* @Html.DropDownListFor(m => m.WIDMenu, Model.LCBXMenu, "-- Selecciona una opción --", new { @class = "form-control", @id = "cbxMenu" }) *@
+                    @Html.DropDownListFor(m => m.WIDMenu, Model.LCBXMenu, "-- Selecciona una opción --", new { @class = "form-control", @id = "cbxMenu" })
                 </div>
                 <br />
                 <input type="button" id="btnAdd" name="btnAdd" class="btn btn-default" value="Agregar" onclick="return FNGuardar()" />
